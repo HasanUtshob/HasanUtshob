@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @HasanUtshob
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me Telegram : @shutshob
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Hasan Utshob
 
-<!---
-HasanUtshob/HasanUtshob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
+
+## 🏠 About Me
+
+- **Name:** Hasan Utshob
+- **Home Town:** Jamalpur, Mymensingh, Bangladesh 🇧🇩
+- **Profession:** MERN Stack Developer
+
+## 🛠️ Technologies & Skills
+
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Git & GitHub
+
+## 📫 Connect with me
+
+- **Facebook:** [facebook.com/Shahriahasanutshob](https://www.facebook.com/Shahriahasanutshob)
+
+---
+
+Thanks for visiting my GitHub!  
+Feel free to explore my projects, connect, and collaborate.
+
