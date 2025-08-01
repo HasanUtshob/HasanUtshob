@@ -26,9 +26,10 @@ I'm passionate about building full stack web applications with modern JavaScript
 ## 📈 GitHub Stats
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-utshob&layout=compact&theme=radical)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanUtshob&show_icons=true&theme=radical" alt="github stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanUtshob&layout=compact&theme=radical" alt="top languages" height="160"/>
 </p>
+
 
 ---
 
