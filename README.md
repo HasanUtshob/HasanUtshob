@@ -35,7 +35,7 @@ I'm passionate about building full stack web applications with modern JavaScript
 
 ## 📫 Connect with me
 
-- [Facebook](https://www.facebook.com/Shahriahasanutshob)
+- [Whatsapp](https://api.whatsapp.com/send/?phone=%2B8801601949074&text&type=phone_number&app_absent=0)
 
 ---
 
