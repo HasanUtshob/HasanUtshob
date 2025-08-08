@@ -53,15 +53,14 @@
 
 ### 📬 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/hasanutshob" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Hasan Utshob on LinkedIn"/>](https://www.linkedin.com/in/md-hasan-utshob/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/300px-Facebook_icon_2013.svg.png?20161223201621" height="40em" align="center" alt="Follow Hasan Utshob on Facebook" title="Follow Hasan Utshob on Facebook"/>](https://web.facebook.com/Shahriahasanutshob/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40em" align="center" alt="Connect Hasan Utshob on Whatsapp" title="Connect Hasan Utshob on Whatsapp"/>](https://api.whatsapp.com/send/?phone=%2B8801601949074&text&type=phone_number&app_absent=0)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Connect Hasan Utshob on Telegram" title="Connect Hasan Utshob on Telegram"/>](https://t.me/Shutshob)
   <a href="mailto:hasanutshob@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HasanUtshob" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
