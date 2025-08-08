@@ -7,6 +7,15 @@
  </abc>
 </h2> 
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a MERN stack Developer, currently exploring NextJS
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
@@ -22,16 +31,6 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-
-
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm a MERN stack Developer, currently exploring NextJS
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
