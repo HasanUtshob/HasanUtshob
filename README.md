@@ -9,21 +9,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-
-I’m a passionate frontend developer with hands-on experience in React, Tailwind CSS, JavaScript, and Express.js. I enjoy solving real-world problems through clean, responsive UI design and intuitive user experiences. Currently, I’m exploring Next.js and React Native to expand my skills into full-stack and mobile development.
-
-Apart from tech, I’m a 2nd-year Zoology student and work as an ICT teacher and computer operator at Sristy Central School. Balancing academics and tech has helped me build discipline, adaptability, and a strong learning mindset.
-
-My long-term goal is to become a full-stack developer and an Android app developer, creating impactful products that blend performance, design, and functionality.
-
-
-
-
-
-
-
-
-
 - :computer: I'm a MERN stack Developer, currently exploring NextJS
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
