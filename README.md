@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Hasan Utshob, 👋 I'm a 🚀  MERN Stack Web Developer 🚀">
+  <img src="https://i.ibb.co.com/ywGkVzW/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Hi, I'm Hasan Utshob, 👋 I'm a 🚀  MERN Stack Web Developer 🚀">
 </p>
 <h2 align="left">
  <abc>
